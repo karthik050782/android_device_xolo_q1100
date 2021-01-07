@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "android_vendor_xolo_q1100",
+    "target_path": "vendor/xolo/q1100"
+  },
+  {
+    "repository": "android_kernel_xolo_q1100",
+    "target_path": "kernel/xolo/q1100"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]
