@@ -15,4 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_q1100.mk
+    $(LOCAL_DIR)/lineage_q1100.mk
+
+COMMON_LUNCH_CHOICES := \
+    lineage_q1100-user \
+    lineage_q1100-userdebug \
+    lineage_q1100-eng
